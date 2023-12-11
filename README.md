@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my personal website [denzildoyle.me](www.denzildoyle.me)
+This is my personal website [denzildoyle.me](https://www.denzildoyle.me/)
 <!--
 **denzildoyle/denzildoyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
