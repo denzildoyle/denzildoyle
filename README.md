@@ -1,5 +1,9 @@
 ### Hi there 👋
 This is my personal website [denzildoyle.me](https://www.denzildoyle.me/)
+
+Compile SASS file 
+sass --watch sass/styles.scss css/styles.css --style compressed
+
 <!--
 **denzildoyle/denzildoyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
