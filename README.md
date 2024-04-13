@@ -1,8 +1,6 @@
 ### Hi there 👋
 This is my personal website [denzildoyle.me](https://www.denzildoyle.me/)
 
-
-
 <!--
 
 Compile SASS file 
@@ -21,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=denzildoyle)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzildoyle)](https://github.com/anuraghazra/github-readme-stats)
