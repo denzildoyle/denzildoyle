@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 This is my personal website [denzildoyle.me](https://www.denzildoyle.me/)
 
-<!--
+
 
 Compile SASS file 
 sass --watch sass/styles.scss css/styles.css --style compressed
